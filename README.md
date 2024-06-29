@@ -1,2 +1,2 @@
 # saadi-solar
-this is the first demo of the family side business of soalt system installation
+The Saadi Solar website is a responsive and user-friendly platform designed to showcase the products and services of Saadi Solar. Developed as part of a project through the Lebanese International University (LIU), the site aims to provide visitors with comprehensive information about solar energy solutions, including product specifications, company background, and contact information.
