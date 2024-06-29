@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #333;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  #content {
+    margin: 20px;
+  }
+  
+  #content h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  #content p {
+    line-height: 1.5;
+  }
+  
+  #gallery {
+    margin-bottom: 20px;
+  }
+  
+  #gallery img {
+    width: 300px;
+    height: 200px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  #contact-form{
+      display: flex;
+      flex-direction: column;
+
+  }
+  
+  #contact-form input[type="text"],
+  #contact-form textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  #contact-form button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #contact-form button:hover {
+    background-color: #555;
+  }
+
+  .login-btn a {
+    color: black; 
+   
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 750px;
+    
+  }
